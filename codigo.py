@@ -14,7 +14,7 @@
 from openai import OpenAI
 import streamlit as st 
 modelo_ia = OpenAI(
-    api_key=(r"AQ.Ab8RN6KHP7MmN-qo0RHcvMO4PVdkYH9e27hFHD_je-vmsWnUqA"),  
+    api_key=(r"AQ.Ab8RN6LgWeTs2OG4OXnHu0mZ55ex5WoTek8YQP_lvHsK9ZOR7g"),  
     base_url=r"https://generativelanguage.googleapis.com/v1beta/openai/"
     ) # key e url da IA
     
